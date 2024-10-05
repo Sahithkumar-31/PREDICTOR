@@ -5,3 +5,6 @@ env.egg-info/SOURCES.txt
 env.egg-info/dependency_links.txt
 env.egg-info/requires.txt
 env.egg-info/top_level.txt
+src/__init__.py
+src/pred_code/__init__.py
+src/pred_code/utils.py
