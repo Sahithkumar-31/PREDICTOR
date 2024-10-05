@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: env
+Version: 0.0.1
+Author: sahith
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: PyPDF2
+Requires-Dist: pandas
+Requires-Dist: langchain_community
+Requires-Dist: python-dotenv
